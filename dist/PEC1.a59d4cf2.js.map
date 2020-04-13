@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AAAA,IAAMA,EAAO,cACbC,QAAQC,IAAYF,QAAAA,OAAAA","file":"PEC1.a59d4cf2.js","sourceRoot":"..","sourcesContent":["const name = \"mundo cruel\";\nconsole.log(`Hola ${name}`);"]}
