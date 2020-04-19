@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["name","console","log"],"mappings":";AAAA,IAAMA,EAAO,6BACbC,QAAQC,IACNF,sEAAAA,OAAAA","file":"PEC1.641250a1.js","sourceRoot":"..","sourcesContent":["const name = \"Pamela Fernández Fernández\";\nconsole.log(`Herramientas básicas para la construcción de un boilerplate. Por \n${name}`);"]}
