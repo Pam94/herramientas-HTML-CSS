@@ -1,2 +1,30 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 @import '../node_modules/font-awesome/css/font-awesome.css';
+
+.mt-5 {
+    margin-top: ($spacer * 5) !important;
+}
+
+.bg_node {
+    background-image: url("../img/node.svg");
+
+    background-color: #ffffff;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bg_npm {
+    background-image: url("../img/npm.svg");
+ 
+    background-color: #ffffff;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.bg_parcel {
+    background-image: url("../img/parcel.svg");
+
+    background-color: #ffffff;
+    background-attachment: fixed;
+    background-size: cover;
+}
